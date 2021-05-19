@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "flag.h"
+#include "flag.c"
 /*s*/
 int main(){
     flag();
